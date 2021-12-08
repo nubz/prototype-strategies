@@ -136,12 +136,6 @@ function Layout({ children }: { children: React.ReactNode }) {
               <li>
                 <Link to="/posts">Posts</Link>
               </li>
-              <li>
-                <a href="https://remix.run/docs">Remix Docs</a>
-              </li>
-              <li>
-                <a href="https://github.com/remix-run/remix">GitHub</a>
-              </li>
             </ul>
           </nav>
         </div>
