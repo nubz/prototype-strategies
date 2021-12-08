@@ -67,7 +67,7 @@ export default function Index() {
       <aside>
         <h2>Posts</h2>
 
-       
+
       </aside>
     </div>
   );

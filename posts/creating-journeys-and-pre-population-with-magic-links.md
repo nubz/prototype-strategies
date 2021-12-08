@@ -8,7 +8,7 @@ Magic links is a term we can use for links that don't represent an actual page, 
 
 ## Journey configuration
 
-We can do this with a route handler in our `routes.js` file [see about setting routes](https://govuk-prototype-kit.herokuapp.com/docs/creating-routes) and a relatively simple list of data values for each start link.
+We can do this with a route handler in our `routes.js` file ([see about setting routes](https://govuk-prototype-kit.herokuapp.com/docs/creating-routes)) and a list of data values to be used for each start link.
 	
 The route handler will catch the request, update the session data with journey data and then redirect to the first screen on the selected journey. The relevant journey data will now be available throughout the journey.
 
